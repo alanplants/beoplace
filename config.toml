@@ -54,7 +54,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "DEVELOPER"
         [[params.banner.flipText]]
-            title   = "MILA"
+            title   = "MIKI"
 
     # Homepage About Section
     [params.about]

@@ -59,6 +59,8 @@ theme = "timer-hugo"
             title   = "THINKERS"
         [[params.banner.flipText]]
             title   = "curious"
+        [[params.banner.flipText]]
+            title   = "curious"
             
     # Homepage About Section
     [params.about]

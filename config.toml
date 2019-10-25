@@ -1,4 +1,4 @@
-baseURL = "http://beoplace.netlify.com/"
+baseURL = "https://beoplace.netlify.com//"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"

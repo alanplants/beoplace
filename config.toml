@@ -44,20 +44,22 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "HI, MY NAME IS ALAN & I AM A"
+        heading = "We Are BeoPlace, We Are"
         description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
         btn     = true
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "DESIGNER"
+            title   = "OPEN MINDED"
         [[params.banner.flipText]]
-            title   = "DEVELOPER"
+            title   = "BUILDERS"
         [[params.banner.flipText]]
-            title   = "MILA"
+            title   = "ECOLOGICAL"        
         [[params.banner.flipText]]
-            title   = "MIKI"
-
+            title   = "THINKERS"
+        [[params.banner.flipText]]
+            title   = "curious"
+            
     # Homepage About Section
     [params.about]
         enable  = true

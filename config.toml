@@ -44,24 +44,31 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "HI, MY NAME IS ALAN & I AM A"
-        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
+        heading = "we are beoplace, we are"
+        description = "between us we have many years experience, too many to contemplate, this is our forum."
         btn     = true
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "DESIGNER"
+            title   = "architects"
         [[params.banner.flipText]]
-            title   = "DEVELOPER"
+            title   = "DEVELOPERs"
         [[params.banner.flipText]]
-            title   = "MILA"
-
+            title   = "curious"
+        [[params.banner.flipText]]
+            title   = "ecological"
+            [[params.banner.flipText]]
+            title   = "thinkers"
+            [[params.banner.flipText]]
+            title   = "builders"
+            [[params.banner.flipText]]
+            title   = "urbanists"
     # Homepage About Section
     [params.about]
         enable  = true
         title   = "ABOUT ME"
         content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-        image   = "images/about/about.jpg"
+        image   = "images/about/about.png"
 
     # Call to Action
     [params.cta]

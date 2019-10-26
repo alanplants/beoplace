@@ -1,4 +1,4 @@
-baseURL = "https://beoplace.netlify.com//"
+baseURL = "http://beoplace.netlify.com/"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
@@ -44,44 +44,38 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "We Are BeoPlace, We Are"
-        description = "We are architects, designers, urbanists and developers with too many years of experience to even contemplate. This is our forum"
+        heading = "HI, MY NAME IS ALAN & I AM A"
+        description = "WITH 10 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING DIGITAL DESIGN DIRECTOR, WEB DESIGNER AND DEVELOPER. THIS SITE SHOWCASES SOME OF MY WORK."
         btn     = true
         btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
-            title   = "OPEN MINDED"
+            title   = "DESIGNER"
         [[params.banner.flipText]]
-            title   = "BUILDERS"
+            title   = "DEVELOPER"
         [[params.banner.flipText]]
-            title   = "ECOLOGICAL"        
-        [[params.banner.flipText]]
-            title   = "THINKERS"
-        [[params.banner.flipText]]
-            title   = "curious"
-        [[params.banner.flipText]]
-            title   = "curious"
-            
+            title   = "MILA"
+
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT us"
+        title   = "ABOUT ME"
         content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
-        image   = "images/about/about.png"
+        image   = "images/about/about.jpg"
 
     # Call to Action
     [params.cta]
         enable  = true
         title   = "SO WHAT YOU THINK ?"
-        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus "
-        btnText = "Contact us"
+        content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+        btnText = "Contact with me"
         btnURL  = "/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "our passion"
-        subtitle= "We try, we do, we change"
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     [params.footer]
         [[params.footer.socialIcon]]

@@ -63,6 +63,9 @@ theme = "timer-hugo"
             title   = "builders"
             [[params.banner.flipText]]
             title   = "urbanists"
+            [[params.banner.flipText]]
+            title   = "creative"
+                                       
     # Homepage About Section
     [params.about]
         enable  = true

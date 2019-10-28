@@ -47,7 +47,7 @@ theme = "timer-hugo"
         heading = "we are beoplace, we are"
         description = "between us we have many years experience, too many to contemplate, this is our forum."
         btn     = true
-        btnText = "Download More"
+        btnText = "learn more"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
             title   = "architects"

@@ -1,4 +1,4 @@
-baseURL = "http://beoplace.netlify.com/"
+baseURL = "https://bpalan.netlify.com/"
 languageCode = "en-us"
 title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "timer-hugo"
@@ -47,7 +47,7 @@ theme = "timer-hugo"
         heading = "we are beoplace, we are"
         description = "between us we have many years experience, too many to contemplate, this is our forum."
         btn     = true
-        btnText = "learn more"
+        btnText = "Download More"
         btnURL  = "https://themefisher.com/"
         [[params.banner.flipText]]
             title   = "architects"
@@ -57,20 +57,20 @@ theme = "timer-hugo"
             title   = "curious"
         [[params.banner.flipText]]
             title   = "ecological"
-            [[params.banner.flipText]]
+        [[params.banner.flipText]]
             title   = "thinkers"
-            [[params.banner.flipText]]
+        [[params.banner.flipText]]
             title   = "builders"
-            [[params.banner.flipText]]
+        [[params.banner.flipText]]
             title   = "urbanists"
-            [[params.banner.flipText]]
+        [[params.banner.flipText]]
             title   = "creative"
-                                       
+
     # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT us"
-        content = "<b>BeoPlace</b> is a forum for those of us wishing to make Belgrade better. We love this city, we see it’s potential and understand that there is an energy here that is difficult to characterise. However, there is still much to be done to maximise liveability and also an opportunity to create benchmark practices for others to observe. In this spirit we invite contributors to post articles and discussion subjects to our site."
+        title   = "ABOUT ME"
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries. <br> <br> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero."
         image   = "images/about/about.png"
 
     # Call to Action
@@ -84,7 +84,7 @@ theme = "timer-hugo"
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "our experise"
+        title   = "Latest Works"
         subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
 
     [params.footer]

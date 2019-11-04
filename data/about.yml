@@ -1,10 +1,7 @@
 enable  : true
 title   : Why We are Different
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  <br>
-  <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+  We see this blog as an opportunity to express thoughts and feelings on a range of issues related to living in Belgrade. We have broadly set out what we regard as being the philosophical foundation material for creating more liveable spaces within emerging urban contribute to this dialogue. If desired, by expressing their frustrations and constructive critiques of current development issues, but more importantly, by communicating points of concern we are then able to formulate practical strategies to engender a positive environmental evolution.
 image   : images/about/about-company.jpg
 aboutItem:
   - title : Why Choose Us

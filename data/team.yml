@@ -1,7 +1,7 @@
 enable  : true
 title   : MEET THE TEAM
 members  :
-  - name  : Jonathon Andrew
+  - name  : JC
     image : images/team/team-1.jpg
     designation : CEO, Project Manager
     description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore

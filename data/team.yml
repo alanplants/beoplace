@@ -4,25 +4,25 @@ members  :
   - name  : JC
     image : images/team/team-1.jpg
     designation : ecologist
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    description : likes trees
     facebook    : https://www.facebook.com/alan.derbyshire.56
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
   
-  - name  : Jesmin Martina
+  - name  : JM
     image : images/team/team-2.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    designation : researcher
+    description : likes vild nature
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
     googleplus  : https://plus.google.com/themefisher
   
-  - name  : Deu John
+  - name  : DJ
     image : images/team/team-3.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    designation : architect
+    description : likes simplicity
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
@@ -30,8 +30,8 @@ members  :
 
   - name  : Anderson Martin
     image : images/team/team-4.jpg
-    designation : CEO, Project Manager
-    description : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+    designation : coordinator
+    description : likes people
     facebook    : https://www.fb.com/themefisher
     twitter     : https://www.twitter.com/themefisher
     linkedIn    : https://www.linkedin.com/themefisher
